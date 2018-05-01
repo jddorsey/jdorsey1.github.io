@@ -2,7 +2,7 @@
 
 <a href="https://user-images.githubusercontent.com/20360583/39476147-f45472f8-4d28-11e8-8c3a-c2c83fe911f2.jpg"
 target="_blank">
-<img src="https://user-images.githubusercontent.com/20360583/39476147-f45472f8-4d28-11e8-8c3a-c2c83fe911f2.jpg"></a>
+<img src="https://user-images.githubusercontent.com/20360583/39476147-f45472f8-4d28-11e8-8c3a-c2c83fe911f2.jpg" width="350"></a>
 
 You can use the [editor on GitHub](https://github.com/jdorsey1/jdorsey1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

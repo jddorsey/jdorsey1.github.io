@@ -9,6 +9,7 @@ You can use the [editor on GitHub](https://github.com/jdorsey1/jdorsey1.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Feat 1 Change *_*
+Hello this is Bob, it is mice to meet you in class.  
 
 ### Markdown
 
